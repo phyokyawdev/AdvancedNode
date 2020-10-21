@@ -1,15 +1,13 @@
-# AdvancedNodeStarter
+# AdvancedNode
 
-Starting project for a course on Advanced Node @ Udemy
-
-updated @2020-10-20
+Course project for Node JS: Advanced Concepts @ Udemy
 
 ### Downloading
 
 Clone this repository to your local machine with
 
 ```bash
-git clone https://github.com/phyokyawdev/AdvancedNodeStarter.git
+git clone https://github.com/phyokyawdev/AdvancedNode.git
 ```
 
 ### Installation
