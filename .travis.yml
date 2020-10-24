@@ -5,6 +5,7 @@ dist: trusty
 sudo: required
 addons:
   chrome: stable
+  hostname: localhost
 before_install:
   - "sysctl kernel.unprivileged_userns_clone=1"
   - "export DISPLAY=:99.0"
