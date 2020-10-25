@@ -7,4 +7,5 @@ module.exports = {
     "./__tests__/jest.setup.js",
   ],
   testEnvironment: "node", // Needed by mongoose
+  verbose: true,
 };
